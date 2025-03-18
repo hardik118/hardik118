@@ -1,3 +1,4 @@
+![My Animated Image](https://raw.githubusercontent.com/hardik118/hardik118/8930713a4f93a88c71fdcf25b032eabfef653475/layered-waves-haikei.svg)
 <h1 align="center">Hi 👋, I'm Hardik Yadav</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 

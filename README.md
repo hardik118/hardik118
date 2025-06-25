@@ -1,41 +1,110 @@
-![My Animated Image](https://github.com/hardik118/hardik118/blob/main/Animation%20-%201742324648074.gif?raw=true)
-<h1 align="center">Hi 👋, I'm Hardik Yadav</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik118&label=Profile%20views&color=0e75b6&style=flat" alt="hardik118" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik118" alt="hardik118" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Feeatpay**
-
-- 🌱 I’m currently learning **Next.js, Kubernetes, blockchain**
-
-- 👯 I’m looking to collaborate on **blockchain Based money transfer**
-
-- 🤝 I’m looking for help with **Integrating off & on Ramp solutions**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-z98tjzgrh-hardik118s-projects.vercel.app/](https://my-portfolio-z98tjzgrh-hardik118s-projects.vercel.app/)
-
-- 💬 Ask me about **react, ui/ux, Hono**
-
-- 📫 How to reach me **hardikyadav1182005@gmail.com**
-
-- ⚡ Fun fact **I am great at writing codes ad well as Stories**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hardik-y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-y" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hardik118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hardik118" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hardikyadav118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardikyadav118" height="30" width="40" /></a>
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://your-banner-image.com" alt="hero" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- Avatar + Intro Card -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR-ID?v=4" width="130px" style="border-radius: 50%;" />
+  <h1>Hey, I’m <b>Hardik Yadav</b> 👋</h1>
+  <i>Building beautiful systems that scale & spark ideas</i><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;Web3+Dev+%26+System+Designer;Open+to+Collab+and+Ideas" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik118&show_icons=true&locale=en&layout=compact" alt="hardik118" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik118&show_icons=true&locale=en" alt="hardik118" /></p>
+<!-- Cards Section: About Me -->
+### 💡 About Me
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik118&" alt="hardik118" /></p>
+<img src="https://media.giphy.com/media/26tPghhb3105c3sZG/giphy.gif" width="150px" align="right" />
+
+🧑‍💻 I love building immersive web experiences  
+🌍 From India, working remotely  
+🔭 Currently building AI + Web3 apps  
+📚 Tech I enjoy: React, Hono, Tailwind, Solana  
+🧠 Always curious — always learning
+
+</div>
+
+---
+
+<!-- Cards Section: What I'm Doing Now -->
+### 🚀 Now Working On
+
+| Project        | Description                                                            | Tech Stack                   |
+|----------------|------------------------------------------------------------------------|------------------------------|
+| **InterviewAI** | Voice-based screening using AI agents                                 | `Hono`, `OpenAI`, `Postgres` |
+| **Fiat2Crypto** | Remittance platform via Solana for developing markets                  | `Solana`, `Node.js`, `AWS`   |
+| **StoriesNStore** | Collaborative story/code platform for learning                       | `Next.js`, `Tailwind`, `Socket.IO` |
+
+---
+
+<!-- Floating Section -->
+### 🌐 My Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,tailwind,solidity,vercel,prisma,postgres,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<!-- Activity Graph -->
+### 🕸️ GitHub Network Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+<!-- 📦 Additional Sections as Cards -->
+### 🧠 Philosophy
+
+> _"Make it real. Make it fast. Make it intuitive."_  
+> _“Design is not how it looks, it’s how it works.” – Steve Jobs_  
+> _I build tools that **people** use — and love._
+
+---
+
+### 🔁 Testimonials (✨ You can add later)
+
+| Name | Role | Testimonial |
+|------|------|-------------|
+| Adhiraj chauhan. | Game Developer @ Unity | "Hardik built a Web3 prototype faster than our internal team." |
+| pushpendera kumar . | Hod,(operating systems) | "He contributed  to univeristy systems , evolving teaching methods ." |
+
+---
+
+<!-- 📭 Contact -->
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="[https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/hardik-y/)" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://hardikyadav.me" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Quote or Easter Egg -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+</p>

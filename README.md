@@ -14,27 +14,26 @@
 
 ---
 
+<div align="left" style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-<!-- Cards Section: About Me -->
-### 💡 About Me
-<div align="left">
+  <div>
+    <h3>💡 About Me</h3>
+    <p>🧑‍💻 I love building immersive web experiences<br>
+    🌍 From India, working remotely<br>
+    🛠️ Currently building AI + Web3 apps<br>
+    📚 Tech I enjoy: React, Hono, Tailwind, Solana<br>
+    🧠 Always curious — always learning</p>
+  </div>
 
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" 
-    width="150px" 
-    align="right" 
-    style="margin-top: -10px; margin-left: 20px;" 
+    width="120px" 
+    style="margin-left: 20px; margin-top: 5px; border-radius: 10px;" 
+    alt="fun gif"
   />
-
-  🧑‍💻 I love building immersive web experiences  
-  🌍 From India, working remotely  
-  🔭 Currently building AI + Web3 apps  
-  📚 Tech I enjoy: React, Hono, Tailwind, Solana  
-  🧠 Always curious — always learning
 
 </div>
 
----
 
 <!-- Cards Section: What I'm Doing Now -->
 ### 🚀 Now Working On

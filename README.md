@@ -14,25 +14,31 @@
 
 ---
 
-<div align="left" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<!-- 🧠 About Me Section -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
+  <!-- Text Content -->
   <div>
-    <h3>💡 About Me</h3>
-    <p>🧑‍💻 I love building immersive web experiences<br>
-    🌍 From India, working remotely<br>
-    🛠️ Currently building AI + Web3 apps<br>
-    📚 Tech I enjoy: React, Hono, Tailwind, Solana<br>
-    🧠 Always curious — always learning</p>
+    <h2>💡 About Me</h2>
+    <p>
+      🧑‍💻 I love building immersive web experiences<br>
+      🌍 From India, working remotely<br>
+      🔭 Currently building AI + Web3 apps<br>
+      📚 Tech I enjoy: React, Hono, Tailwind, Solana<br>
+      🧠 Always curious — always learning
+    </p>
   </div>
 
+  <!-- GIF -->
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" 
-    width="120px" 
-    style="margin-left: 20px; margin-top: 5px; border-radius: 10px;" 
+    width="140px" 
+    style="margin-left: 20px; border-radius: 10px;" 
     alt="fun gif"
   />
 
 </div>
+
 
 
 <!-- Cards Section: What I'm Doing Now -->

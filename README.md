@@ -6,23 +6,31 @@
 <!-- Avatar + Intro Card -->
 <div align="center">
   <h1>Hey, I’m <b>Hardik Yadav</b> 👋</h1>
+  <h3>Find me at: <a href="https://hardikyadav.me" target="_blank">hardikyadav.me</a></h3>
+  
   <i>Building beautiful systems that scale & spark ideas</i><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;Web3+Dev+%26+System+Designer;Open+to+Collab+and+Ideas" />
 </div>
 
 ---
 
+
 <!-- Cards Section: About Me -->
 ### 💡 About Me
 <div align="left">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="150px" align="right" />
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" 
+    width="150px" 
+    align="right" 
+    style="margin-top: -10px; margin-left: 20px;" 
+  />
 
-🧑‍💻 I love building immersive web experiences  
-🌍 From India, working remotely  
-🔭 Currently building AI + Web3 apps  
-📚 Tech I enjoy: React, Hono, Tailwind, Solana  
-🧠 Always curious — always learning
+  🧑‍💻 I love building immersive web experiences  
+  🌍 From India, working remotely  
+  🔭 Currently building AI + Web3 apps  
+  📚 Tech I enjoy: React, Hono, Tailwind, Solana  
+  🧠 Always curious — always learning
 
 </div>
 

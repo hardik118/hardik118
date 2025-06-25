@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="./helllo worlds.png" alt="hero" style="width: 100%; height: auto; max-height: 250px;" />
+  <img src="./hello world.png" alt="hero" style="width: 100%; height: auto; max-height: 250px;" />
 </p>
 
 <!-- Avatar + Intro Card -->

@@ -14,30 +14,25 @@
 
 ---
 
-<!-- 🧠 About Me Section -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+## 💡 About Me
 
-  <!-- Text Content -->
-  <div>
-    <h2>💡 About Me</h2>
-    <p>
-      🧑‍💻 I love building immersive web experiences<br>
-      🌍 From India, working remotely<br>
-      🔭 Currently building AI + Web3 apps<br>
-      📚 Tech I enjoy: React, Hono, Tailwind, Solana<br>
-      🧠 Always curious — always learning
-    </p>
-  </div>
+<table>
+<tr>
+<td>
 
-  <!-- GIF -->
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" 
-    width="140px" 
-    style="margin-left: 20px; border-radius: 10px;" 
-    alt="fun gif"
-  />
+🧑‍💻 I love building immersive web experiences  
+🌍 From India, working remotely  
+🔭 Currently building AI + Web3 apps  
+📚 Tech I enjoy: React, Hono, Tailwind, Solana  
+🧠 Always curious — always learning
 
-</div>
+</td>
+<td>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRybmNlNWp0MmJqeW04NWg0eDBldTBwa2d1cjU1dWV6bGtpeGJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="140px" alt="fun gif">
+</td>
+</tr>
+</table>
+
 
 
 
